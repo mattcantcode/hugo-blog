@@ -1,0 +1,5 @@
+baseURL = 'https://mattcantcode.github.io/'
+languageCode = 'en-us'
+title = 'My first Hugo blog'
+
+theme="hugo-theme-console"
