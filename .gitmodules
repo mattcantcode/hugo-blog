@@ -1,0 +1,7 @@
+[submodule "hugo-blog/themes/hugo-theme-console"]
+	path = hugo-blog/themes/hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git
+[submodule "hugo-blog/mattcantcode.github.io"]
+	path = hugo-blog/mattcantcode.github.io
+	url = https://github.com/mattcantcode/mattcantcode.github.io.git
+	branch = main
