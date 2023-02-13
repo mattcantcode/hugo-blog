@@ -5,3 +5,7 @@
 	path = hugo-blog/mattcantcode.github.io
 	url = https://github.com/mattcantcode/mattcantcode.github.io.git
 	branch = main
+[submodule "hugo-blog/public"]
+	path = hugo-blog/public
+	url = https://github.com/mattcantcode/mattcantcode.github.io.git
+	branch = main
